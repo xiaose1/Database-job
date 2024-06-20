@@ -1,0 +1,9 @@
+
+logs/
+images/
+bbs/.idea/
+bbs/bbs-admin/target/
+bbs/bbs-web/target/
+bbs/bbs-common/target/
+bbs-web/node_modules/
+bbs-admin/node_modules/
