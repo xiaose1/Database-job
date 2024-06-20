@@ -6,12 +6,7 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
-/**
- * ForumListVo
- *
- * @author yangjiajia
- * @createdAt 2024/4/5 16:47
- */
+
 @Data
 public class ForumListVo {
 

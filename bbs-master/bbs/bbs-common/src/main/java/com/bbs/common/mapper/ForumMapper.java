@@ -9,14 +9,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * <p>
- * 帖子 Mapper 接口
- * </p>
- *
- * @author yangjiajia
- * @since 2024-04-02
- */
+
 @Mapper
 public interface ForumMapper extends BaseMapper<Forum> {
 

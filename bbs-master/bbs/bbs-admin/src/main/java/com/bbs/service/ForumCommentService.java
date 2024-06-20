@@ -7,12 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * ForumCommentService
- *
- * @author yangjiajia
- * @createdAt 2024/4/8 15:24
- */
+
 @Service
 public class ForumCommentService {
 

@@ -9,12 +9,7 @@ import org.springframework.web.context.request.RequestContextHolder;
 
 import java.util.Objects;
 
-/**
- * SessionManager
- *
- * @author yangjiajia
- * @createdAt 2024/4/5 16:39
- */
+
 public class SessionManager {
 
     public static LoginVo getUser() {

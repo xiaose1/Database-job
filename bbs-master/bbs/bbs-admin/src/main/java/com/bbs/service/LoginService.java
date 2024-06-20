@@ -11,12 +11,7 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * LoginService
- *
- * @author yangjiajia
- * @createdAt 2024/4/2 11:49
- */
+
 @Service
 public class LoginService {
 

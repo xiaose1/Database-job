@@ -4,12 +4,7 @@ import lombok.Data;
 
 import javax.validation.constraints.NotBlank;
 
-/**
- * LoginDTO
- *
- * @author yangjiajia
- * @createdAt 2024/4/2 11:50
- */
+
 @Data
 public class LoginDTO {
 

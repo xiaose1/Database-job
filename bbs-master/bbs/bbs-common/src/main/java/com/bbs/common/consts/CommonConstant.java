@@ -1,11 +1,6 @@
 package com.bbs.common.consts;
 
-/**
- * CommonConstant
- *
- * @author yangjiajia
- * @createdAt 2024/4/1 17:39
- */
+
 public class CommonConstant {
 
     public static final String SESSION_USER = "user";

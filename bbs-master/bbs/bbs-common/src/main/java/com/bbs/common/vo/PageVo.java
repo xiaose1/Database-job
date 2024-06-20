@@ -5,12 +5,6 @@ import lombok.Data;
 
 import java.util.List;
 
-/**
- * description
- *
- * @author yangjiajia
- * @createdAt 2023/12/18 21:20
- */
 @Data
 public class PageVo<T> {
 

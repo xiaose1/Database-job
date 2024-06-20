@@ -3,12 +3,7 @@ package com.bbs.common.vo;
 import lombok.Builder;
 import lombok.Data;
 
-/**
- * DataResult
- *
- * @author yangjiajia
- * @createdAt 2024/4/1 17:39
- */
+
 @Data
 @Builder
 public class DataResult {

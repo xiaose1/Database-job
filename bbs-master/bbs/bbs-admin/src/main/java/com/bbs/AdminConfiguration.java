@@ -7,12 +7,7 @@ import org.springframework.context.annotation.Import;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-/**
- * AdminConfiguration
- *
- * @author yangjiajia
- * @createdAt 2024/4/1 17:22
- */
+
 @Configuration
 @Import({
         CommonConfiguration.class

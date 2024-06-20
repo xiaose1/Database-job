@@ -10,12 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * VerificationCodeService
- *
- * @author yangjiajia
- * @createdAt 2024/4/2 11:38
- */
+
 @Service
 public class VerificationCodeService {
 

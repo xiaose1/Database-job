@@ -11,12 +11,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.UUID;
 
-/**
- * ImageService
- *
- * @author yangjiajia
- * @createdAt 2024/4/5 17:27
- */
+
 @Service
 @Log4j2
 public class ImageService {

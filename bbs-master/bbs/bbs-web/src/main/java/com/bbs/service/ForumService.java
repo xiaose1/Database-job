@@ -21,12 +21,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * ForumService
- *
- * @author yangjiajia
- * @createdAt 2024/4/5 16:35
- */
+
 @Service
 @Log4j2
 public class ForumService {

@@ -4,12 +4,7 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
-/**
- * LoginVo
- *
- * @author yangjiajia
- * @createdAt 2024/4/2 11:53
- */
+
 @Data
 public class LoginVo {
 

@@ -14,12 +14,7 @@ import org.springframework.web.filter.CorsFilter;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-/**
- * CommonConfiguration
- *
- * @author yangjiajia
- * @createdAt 2024/4/1 17:43
- */
+
 @Configuration
 @ComponentScan({"com.bbs.common.web", "com.bbs.common.service"})
 //@MapperScan({"com.bbs.common.mapper"})

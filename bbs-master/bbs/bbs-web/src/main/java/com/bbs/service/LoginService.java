@@ -14,12 +14,7 @@ import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
 
-/**
- * LoginService
- *
- * @author yangjiajia
- * @createdAt 2024/4/2 11:49
- */
+
 @Service
 public class LoginService {
 

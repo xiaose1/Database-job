@@ -7,14 +7,7 @@ import java.time.LocalDateTime;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * <p>
- * 用户
- * </p>
- *
- * @author yangjiajia
- * @since 2024-04-02
- */
+
 @Getter
 @Setter
 public class User implements Serializable {

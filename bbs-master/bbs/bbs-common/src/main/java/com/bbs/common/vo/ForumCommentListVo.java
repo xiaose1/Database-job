@@ -4,12 +4,7 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
-/**
- * ForumCommentListVo
- *
- * @author yangjiajia
- * @createdAt 2024/4/5 17:40
- */
+
 @Data
 public class ForumCommentListVo {
 

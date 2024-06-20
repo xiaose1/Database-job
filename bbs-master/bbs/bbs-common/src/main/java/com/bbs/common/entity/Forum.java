@@ -7,14 +7,7 @@ import java.time.LocalDateTime;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * <p>
- * 帖子
- * </p>
- *
- * @author yangjiajia
- * @since 2024-04-02
- */
+
 @Getter
 @Setter
 public class Forum implements Serializable {

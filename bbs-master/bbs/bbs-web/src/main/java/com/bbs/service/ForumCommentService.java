@@ -13,12 +13,7 @@ import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;
 import java.util.List;
 
-/**
- * ForumCommentService
- *
- * @author yangjiajia
- * @createdAt 2024/4/5 17:36
- */
+
 @Log4j2
 @Service
 public class ForumCommentService {

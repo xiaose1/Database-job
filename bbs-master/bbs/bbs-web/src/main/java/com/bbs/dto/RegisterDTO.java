@@ -4,12 +4,7 @@ import lombok.Data;
 
 import javax.validation.constraints.NotBlank;
 
-/**
- * registerDTO
- *
- * @author yangjiajia
- * @createdAt 2024/4/2 12:01
- */
+
 @Data
 public class RegisterDTO {
 
